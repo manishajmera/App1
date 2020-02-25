@@ -1,8 +1,8 @@
 {
-  "name": "microApp1",
+  "name": "micro-app1",
   "version": "1.0.0",
   "description": " awdfaf ",
-  "main": "index.js",
+  "main": "pages/index.js",
   "scripts": {
     "dev": "next",
     "build": "next build",
